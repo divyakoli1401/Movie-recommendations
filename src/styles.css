@@ -1,0 +1,41 @@
+.App {
+  max-width: 600px;
+  margin: auto;
+  font-family: sans-serif;
+  text-align: center;
+}
+img {
+  max-width: 350px;
+  display: block;
+  margin: auto;
+}
+button {
+  margin: 1rem;
+  padding: 0.5rem;
+  border-radius: 0.5rem;
+  background-color: #6366f1;
+  color: white;
+  font-weight: bold;
+}
+.movie-name {
+  font-size: large;
+}
+.movie-rating {
+  font-size: small;
+}
+
+.container {
+  max-width: 600px;
+  margin: 0;
+}
+
+.list-style {
+  list-style: none;
+  border: 1px solid black;
+  margin: 1rem 0rem;
+  padding: 0.5rem;
+  border-radius: 0.5rem;
+  background-color: #a5b4fc;
+  font-weight: bold;
+  width: 80%;
+}
